@@ -1,2 +1,2 @@
 # Python-dars
-Python bo`yicha darslarim. Javoblarim.
+Python bo`yicha darslardagi Javoblarim.
